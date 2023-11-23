@@ -37,6 +37,12 @@
     gap: 40px;   
 }
 
+.logo-branco{
+    width: 142px;
+    height: 32px;
+    flex-shrink: 0;
+}
+
 .container-btn{
     display: flex;
     align-items: center;
@@ -84,6 +90,228 @@
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
+    color: var(--texto-cinza);
+}
+
+.container-metricas{
+    display: flex;
+    padding-bottom: 0px;
+    flex-direction: column;
+    align-items: center;
+    gap: 64px;
+    align-self: stretch;    
+}
+
+
+.metricas{
+    display: flex;
+    width: 1280px;
+    padding: 0px 32px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 64px;
+}
+
+.bloco-metricas{
+    display: flex;
+    align-items: flex-start;
+    gap: 32px;
+    align-self: stretch;
+}
+
+.item1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    flex: 1 0 0;
+}
+
+.item2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    flex: 1 0 0;
+}
+
+.item3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    flex: 1 0 0;
+}
+
+.item4{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    flex: 1 0 0;
+}
+.grand1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    align-self: stretch;
+    font-family: 'Inter', sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px; /* 120% */
+    letter-spacing: -1.2px;
+    color: var(--var-rubro);
+}
+
+.grand2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    align-self: stretch;
+    font-family: 'Inter', sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px; /* 120% */
+    letter-spacing: -1.2px;
+    color: var(--var-rubro);
+}
+
+.grand3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    align-self: stretch;
+    font-family: 'Inter', sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px; /* 120% */
+    letter-spacing: -1.2px;
+    color: var(--var-rubro);
+}
+
+.grand4{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    align-self: stretch;
+    font-family: 'Inter', sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px; /* 120% */
+    letter-spacing: -1.2px;
+    color: var(--var-rubro);
+}
+
+
+.subs1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    align-self: stretch;
+}
+
+.subs2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    align-self: stretch;
+}
+
+.subs3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    align-self: stretch;
+}
+
+.subs4{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    align-self: stretch;
+}
+
+.sub1{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    color: var(--var-escuro);
+}
+
+.sub2{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    color: var(--var-escuro);
+}
+
+.sub3{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    color: var(--var-escuro);
+}
+
+.sub4{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    color: var(--var-escuro);
+}
+
+.desc1{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: var(--texto-cinza);
+}
+
+.desc2{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: var(--texto-cinza);
+}
+
+.desc3{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: var(--texto-cinza);
+}
+
+.desc4{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
     color: var(--texto-cinza);
 }
 
