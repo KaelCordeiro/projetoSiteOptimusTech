@@ -111,6 +111,69 @@
     align-self: stretch;
 }
 
+.container-vagasAbertas{
+    width: 1280px;
+    height: 940px;
+}
+
+.design{
+    display: flex;
+    width: 1280px;
+    padding: 0px 32px;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+.software{
+    display: flex;
+    width: 1280px;
+    padding: 0px 32px;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+.caixa-design{
+    display: flex;
+    width: 768px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+}
+
+.espacamento{
+    margin-bottom: 64px;
+}
+
+.caixa-software{
+    display: flex;
+    width: 768px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+}
+
+.vaga-designer{
+    display: flex;
+    padding: 24px 24px 28px 24px;
+    flex-direction: column;
+    align-self: stretch;
+    border-radius: 16px;
+    border: 1px solid #EAECF0;
+    background: var(--cor-branco);
+}
+
+.vaga-software{
+    display: flex;
+    padding: 24px 24px 28px 24px;
+    flex-direction: column;
+    align-self: stretch;
+    border-radius: 16px;
+    border: 1px solid #EAECF0;
+    background: var(--cor-branco);
+}
+
 img{
     width: 1216px;
     height: 400px;
@@ -240,6 +303,47 @@ img{
     line-height: 30px;  
     color: var(--texto-cinza);
     margin-bottom: 64px;
+}
+
+.titulo-area{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.sub-product{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    color: var(--var-escuro);
+    margin-bottom: 32px;
+}
+
+.sub-software{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    color: var(--var-escuro);
+    margin-bottom: 32px;
+}
+
+.detalhes{ 
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    align-self: stretch;  
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;   
+    color: var(--texto-cinza);
 }
 
 .logo{
