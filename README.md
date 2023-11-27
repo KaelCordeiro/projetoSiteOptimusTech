@@ -1,6 +1,9 @@
-Exercício do 7 days Of Code: cabeçalho, primeira seção da página, métricas, vagas com imagem e texto
+Exercício do 7 days Of Code: cabeçalho, primeira seção da página, métricas, vagas - talentos, vagas abertas
 
 Três primeiros Desafios foram Concluídos!
+
+Quarto Desafio - Status: Concluído
+Quinto Desafio - Status: Concluído
 
 Quatro Desafios finais em Andamento!
 
