@@ -3,6 +3,7 @@ Exercício do 7 days Of Code: cabeçalho, primeira seção da página, métricas
 Três primeiros Desafios foram Concluídos!
 
 Quarto Desafio - Status: Concluído
+
 Quinto Desafio - Status: Concluído
 
 Quatro Desafios finais em Andamento!
